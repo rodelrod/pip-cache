@@ -1,0 +1,6 @@
+django
+pymysql
+psycopg2
+dj-database-url
+sqlalchemy
+unipath
